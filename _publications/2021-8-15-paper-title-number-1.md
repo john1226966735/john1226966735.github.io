@@ -2,7 +2,7 @@
 title: "Collaborative Embedding for Knowledge Tracing"
 collection: publications
 permalink: /publication/CoKT
-date: 2021-08
+date: 2021-08-15
 venue: International Conference on Knowledge Science, Engineering and Management
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27)'
 ---
