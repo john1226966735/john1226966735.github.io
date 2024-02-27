@@ -11,4 +11,3 @@ I am a second-year Ph.D. student at Sun Yat-sen Univerisity (SYSU), excepted to 
 
 My current research interests mainly lie in Reasoning with LLMs (especially in Mathematical Reasoning), Tool/Memory Augmented LLMs, LLM-based Agents.
 
-# You can find my CV here: [Jianpeng Zhou's CV](../asset/)
