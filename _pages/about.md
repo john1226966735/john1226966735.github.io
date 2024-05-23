@@ -12,7 +12,7 @@ Prior to this, I completed my M.Eng Degree at Central China Normal University in
 
 My current research interests mainly lie in Reasoning with LLMs (especially in Mathematical Reasoning), Tool/Memory Augmented LLMs, LLM-based Agents.
 
-You can find my CV here: [Curriculum Vitae](../assets/CV_JianpengZhou_SYSU.pdf)
+You can find my CV here: [Curriculum Vitae](../assets/CV_JianpengZhou_SYSU_copy.pdf)
 
 ### Publications
 
