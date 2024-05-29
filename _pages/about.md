@@ -16,7 +16,7 @@ You can find my CV here: [Curriculum Vitae](../assets/CV_JianpengZhou_SYSU_copy.
 
 ### Publications
 
-[1] **Jianpeng Zhou**, Wanjun Zhong, Yanlin Wang, Jiahai Wang. Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning. Submitted to *NAACL*. [[ArXiv]](https://arxiv.org/pdf/2310.01446.pdf) 
+[1] **Jianpeng Zhou**, Wanjun Zhong, Yanlin Wang, Jiahai Wang. Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning. Submitted to *ECAI 2024*. [[ArXiv]](https://arxiv.org/pdf/2310.01446.pdf) 
 
 [2] Jianwen Sun (supervisor), Shangheng Du, Xin Yuan, **Jianpeng Zhou** (correspoding author), et al. Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing[J]. Under review at *ACM Transactions on Knowledge Discovery from Data*.
 
