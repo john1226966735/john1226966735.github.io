@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at Sun Yat-sen University (SYSU), excepted to graduate in July 2026. I am fortunate to be advised by [Prof. Jiahai Wang](https://cse.sysu.edu.cn/content/2551). Currently, I am also a visiting student at Nanyang Techonological University (NTU), cosupervised by [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
+I am a 4th-year Ph.D. student at Sun Yat-sen University (SYSU), excepted to graduate in July 2026. I am fortunate to be advised by [Prof. Jiahai Wang](https://cse.sysu.edu.cn/content/2551). Currently, I am also a visiting student at Nanyang Techonological University (NTU), cosupervised by [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
 Prior to this, I completed my M.Eng Degree at Central China Normal University in 2022 under the guidance of [Prof. Jianwen Sun](http://faculty.ccnu.edu.cn/h5/2012980010). I earned my B.Eng. Degree from Tianjin University in 2018.
 
 My current research interests mainly lie in Reasoning with LLMs (especially in Mathematical Reasoning), Tool/Memory Augmented LLMs, LLM-based Agents.
