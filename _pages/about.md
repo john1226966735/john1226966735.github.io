@@ -2,24 +2,25 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a 4th-year Ph.D. student at Sun Yat-sen University (SYSU), excepted to graduate in July 2026. I am fortunate to be advised by [Prof. Jiahai Wang](https://cse.sysu.edu.cn/content/2551). Currently, I am also a visiting student at Nanyang Techonological University (NTU), cosupervised by [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/).
-Prior to this, I completed my M.Eng Degree at Central China Normal University in 2022 under the guidance of [Prof. Jianwen Sun](http://faculty.ccnu.edu.cn/h5/2012980010). I earned my B.Eng. Degree from Tianjin University in 2018.
+I am a Ph.D. student in Computer Science at Sun Yat-sen University (SYSU), advised by [Prof. Jiahai Wang](https://cse.sysu.edu.cn/content/2551). I am expected to graduate in June 2027. From December 2024 to December 2025, I was a visiting Ph.D. student at Nanyang Technological University (NTU), where I worked with [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/). Prior to this, I received my M.Eng. degree from Central China Normal University in 2022 under the supervision of [Prof. Jianwen Sun](http://faculty.ccnu.edu.cn/h5/2012980010), and my B.Eng. degree from Tianjin University in 2018.
 
-My current research interests mainly lie in Reasoning with LLMs (especially in Mathematical Reasoning), Tool/Memory Augmented LLMs, LLM-based Agents.
+My current research focuses on **LLM reasoning**, **post-training and reinforcement learning**, and **knowledge-grounded reasoning**. More specifically, I am interested in adaptive and efficient reasoning, dynamic strategy selection, reasoning over knowledge graphs, and training or evaluation methods that improve the reliability and efficiency of large language models. I am also actively exploring how these methods can be transferred to real-world high-value tasks.
 
-### Publications
+### Selected Publications
 
-[1] **Jianpeng Zhou**, Wanjun Zhong, Yanlin Wang, Jiahai Wang. Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning. *Information Processing & Management*. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324004114) 
-[[CODE]](https://github.com/john1226966735/Adaptive-Solver)
+[1] **Jianpeng Zhou**, et al. **Policy-Guided Step-Wise Action Planning for Controllable LLM Reasoning**. *ACL 2026 Findings*.  
 
-[2] Jianwen Sun (supervisor), Shangheng Du, **Jianpeng Zhou** (correspoding author), et al. Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing[J]. *ACM Transactions on Knowledge Discovery from Data*. [[PDF]](https://dl.acm.org/doi/10.1145/3703158) [[CODE]](https://github.com/john1226966735/SimKT)
+[2] **Jianpeng Zhou**, Wanjun Zhong, Yanlin Wang, Jiahai Wang. **Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning**. *Information Processing & Management*, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324004114) [[CODE]](https://github.com/john1226966735/Adaptive-Solver)
 
-[3] Jianwen Sun (supervisor), **Jianpeng Zhou**, Sannüya Liu, Feijuan He, Yun Tang. Hierarchical Attention Network Based Interpretable Knowledge Tracing[J]. *Journal of Computer Research and Development* (in Chinese), 2021, 58(12): 2630-2644. [[PDF]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20210997) [[CODE]](https://github.com/john1226966735/HAKT)
+[3] Chenhui Liu, **Jianpeng Zhou**, et al. **Chain-of-Relations: Faithful and Efficient LLM Reasoning over KGs via Relation-Centric Exploration**. *ACL 2026 Findings*.  
 
-[4] Jianwen Sun (supervisor), **Jianpeng Zhou**, Kai Zhang, Qing Li, Zijian Lu. Collaborative Embedding for Knowledge Tracing[C]//In *International Conference on Knowledge Science, Engineering and Management*, 2021: 333-342. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27) [[CODE]](https://github.com/john1226966735/CoKT)
+[4] Jianwen Sun (supervisor), Shangheng Du, **Jianpeng Zhou** (corresponding author), et al. **Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing**. *ACM Transactions on Knowledge Discovery from Data*, 2024. [[PDF]](https://dl.acm.org/doi/10.1145/3703158) [[CODE]](https://github.com/john1226966735/SimKT)
 
+[5] Jianwen Sun (supervisor), **Jianpeng Zhou**, Sannüya Liu, Feijuan He, Yun Tang. **Hierarchical Attention Network Based Interpretable Knowledge Tracing**. *Journal of Computer Research and Development*, 2021. [[PDF]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20210997) [[CODE]](https://github.com/john1226966735/HAKT)
+
+[6] Jianwen Sun (supervisor), **Jianpeng Zhou**, Kai Zhang, Qing Li, Zijian Lu. **Collaborative Embedding for Knowledge Tracing**. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2021. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27) [[CODE]](https://github.com/john1226966735/CoKT)
