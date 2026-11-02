@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Sun Yat-sen University (SYSU), advised by [Prof. Jiahai Wang](https://cse.sysu.edu.cn/content/2551). I am expected to graduate in June 2027. From December 2024 to December 2025, I was a visiting Ph.D. student at Nanyang Technological University (NTU), where I worked with [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/). Prior to this, I received my M.Eng. degree from Central China Normal University in 2022 under the supervision of [Prof. Jianwen Sun](http://faculty.ccnu.edu.cn/h5/2012980010), and my B.Eng. degree from Tianjin University in 2018.
+I am a Ph.D. student in Computer Science at Sun Yat-sen University (SYSU), advised by [Prof. Jiahai Wang](https://ollab-sysu.github.io/). I am expected to graduate in June 2027. From December 2024 to December 2025, I was a visiting Ph.D. student at Nanyang Technological University (NTU), where I worked with [Prof. Wenya Wang](https://personal.ntu.edu.sg/wangwy/). Prior to this, I received my M.Eng. degree from Central China Normal University in 2022 under the supervision of [Prof. Jianwen Sun](http://faculty.ccnu.edu.cn/h5/2012980010), and my B.Eng. degree from Tianjin University in 2018.
 
 My current research focuses on **LLM reasoning**, **post-training and reinforcement learning**, and **knowledge-grounded reasoning**. More specifically, I am interested in adaptive and efficient reasoning, dynamic strategy selection, reasoning over knowledge graphs, and training or evaluation methods that improve the reliability and efficiency of large language models. I am also actively exploring how these methods can be transferred to real-world high-value tasks.
 
 ### Selected Publications
 
-[1] **Jianpeng Zhou**, Chenhui Liu, Jiahai Wang. DGT: Efficient and Reliable Knowledge Graph Question Answering via Discriminative Graph Traversal. WISE 2026. [[LINK]](https://conferences.sigappfr.org/wise2026/program-2/#paper-600)
+[1] **Jianpeng Zhou**, Chenhui Liu, Jiahai Wang. DGT: Efficient and Reliable Knowledge Graph Question Answering via Discriminative Graph Traversal. WISE 2026. [[Conference Link]](https://conferences.sigappfr.org/wise2026/program-2/#paper-600)
 
 [2] **Jianpeng Zhou**, et al. **Policy-Guided Step-Wise Action Planning for Controllable LLM Reasoning**. *ACL 2026 Findings*.  
 
